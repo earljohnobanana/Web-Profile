@@ -8,7 +8,7 @@ Personal portfolio website built with React, TypeScript, and Vite.
 
 ## About
 
-Computer Engineering graduate from Negros Oriental, now working as IT Staff at a Local Government Unit in Dumaguete City. I build and maintain real government systems — from tax collection and business permits to stall rental management — used daily by treasury office staff.
+Computer Engineering graduate from Negros Oriental, now working as IT Staff at a Local Government Unit in Santa Catalina. I build and maintain real government systems — from tax collection and business permits to stall rental management — used daily by treasury office staff.
 
 ---
 
